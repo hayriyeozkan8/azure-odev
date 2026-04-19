@@ -13,6 +13,7 @@ app.get("/", (req, res) => {
       <body style="text-align:center; margin-top:100px; font-family:Arial;">
         <h1>Hayriye Özkan</h1>
         <h2>231001025</h2>
+        <p>versiyon 2</p>
       </body>
     </html>
   `);
